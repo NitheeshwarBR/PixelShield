@@ -1,0 +1,25 @@
+{
+  "name": "PixelShield",
+  "version": "1.0.0",
+  "description": "Middleware for encrypting and decrypting requests",
+  "main": "lib/visualCryptoMiddleware.js",
+  "scripts": {
+    "postinstall": "make -C src && mv src/vcrypt bin/vcrypt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NitheeshwarBR/PixelShield"
+  },
+  "keywords": [
+    "visual-cryptography",
+    "encryption",
+    "middleware"
+  ],
+  "author": "[Nitheeshwar B R,Pratik k,Pavan B N,Sahana Karishetti]",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.19.2"
+  }
+}

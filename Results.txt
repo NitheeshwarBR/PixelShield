@@ -1,0 +1,15 @@
+[
+    {
+        "city":"Bangalore",
+        "temp":"32",
+        "humidity":"12%"
+
+    },
+    {
+        "city":"Delhi",
+        "temp":"25",
+        "humidity":"9%"
+
+    },
+    
+]

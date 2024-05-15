@@ -1,0 +1,20 @@
+[
+    {
+        "city":"Bangalore",
+        "temp":"36",
+        "humidity":"36%"
+
+    },
+    {
+        "city":"Manglore",
+        "temp":"36",
+        "humidity":"36%"
+
+    },
+    {
+        "city":"Thanglore",
+        "temp":"36",
+        "humidity":"36%"
+
+    }
+]
